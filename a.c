@@ -5,6 +5,8 @@ encrypt
 
 decrypt
 
+000
+
 123
 
 456
